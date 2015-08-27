@@ -16,10 +16,7 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
-/* CV */
-.cv { margin: 0px 0px 60px; }
-.cv h1 { font-size: 3em; }
-.cv h2 { font-size: 2em; }
-.cv .download { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; font-weight: bold;}
-.cv address, .cv p { font-family: 'EB Garamond', serif; font-size: 1.2em; line-height: 1.4em; color: #333; }
-.cv .download {font-family: 'Helvetica', 'Arial', 'Sans-Serif';  float: right; font-size: .8em; text-transform: uppercase; }
+/* about */
+.about { margin: 0px 0px 60px; }
+.about h1 { font-size: 3em; }
+.about address, .cv p { font-family: 'EB Garamond', serif; font-size: 1.2em; line-height: 1.4em; color: #333; }
