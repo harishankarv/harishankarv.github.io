@@ -3,7 +3,7 @@
 	src:url("../fonts/cmunbmr.ttf") format('truetype');
 }	
 
-body {text-align: center; margin: 60px auto; width: 70%;background-color: #FAFAFA;}
+body {   text-align: center; margin: auto;  position: absolute;  top: 0; left: 0; bottom: 0; right: 0; margin: 60px auto; width: 70%;background-color: #FAFAFA;}
 
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
