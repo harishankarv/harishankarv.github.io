@@ -1,105 +1,117 @@
    @font-face {
-       font-family: "Computer Modern Sans";
-       src: url("../fonts/cmunbmr.ttf") format('truetype');
-   }
-   * {
-       margin: 0;
-       padding: 0;
-   }
-   body {
-       font-family: 'Computer Modern Sans', serif;
-       font-size: 16px;
-       /*font: 16px Helvetica, Sans-Serif;*/
-       
-       line-height: 24px;
-       background: url(images/noise.jpg);
-   }
-   .clear {
-       clear: both;
-   }
-   #page-wrap {
-       width: 800px;
-       margin: 40px auto 60px;
-   }
-   #pic {
-       float: right;
-       margin: -30px 0 0 0;
-   }
-   h1 {
-       margin: 0 0 16px 0;
-       padding: 0 0 16px 0;
-       font-size: 25px;
-       font-weight: bold;
-       letter-spacing: 4px;
-       border-bottom: 1px solid #999;
-   }
-   h2 {
-       font-size: 17px;
-       margin: 0 0 6px 0;
-       position: relative;
-   }
-   h2 span {
-       position: absolute;
-       bottom: 0;
-       right: 0;
-       font-family: 'Computer Modern Sans', serif;
-       font-size: 16px;
-       color: #999;
-       font-weight: normal;
-   }
-   p {
-       margin: 0 0 16px 0;
-   }
-   a {
-       color: black;
-       text-decoration: none;
-       border-bottom: 1px dotted #999;
-   }
-   a:hover {
-       border-bottom-style: solid;
-       color: #666;
-   }
-   ul {
-       margin: 0 0 32px 17px;
-   }
-   #objective {
-       width: 500px;
-       float: left;
-   }
-   #objective p {
-       font-family: 'Computer Modern Sans', serif;
-       /*font-family: Georgia, Serif;*/
-       
-       color: #666;
-       text-align: justify;
-   }
-      #objective a {
-       color: #black;
-   }
-   dt {
-       font-weight: bold;
-       font-size: 17px;
-       text-align: right;
-       padding: 0 26px 0 0;
-       width: 150px;
-       float: left;
-       height: 100px;
-       border-right: 1px solid #999;
-       letter-spacing: 2px;
-   }
-   dd {
-       text-align: justify;
-       width: 600px;
-       float: right;
-   }
-   dd.clear {
-       float: none;
-       margin: 0;
-       height: 15px;
-   }
-   #contact-info ul li {
-       display: inline-block;
-       float:left;
+     font-family: "Computer Modern Sans";
+     src: url("../fonts/cmunbmr.ttf") format('truetype');
    }
 
-   header { border-top: 1px solid #d5d5d5; font-size: .8em; display: inline;}
+   * {
+     margin: 0;
+     padding: 0;
+   }
+   body {
+     font-family: 'Computer Modern Sans', serif;
+     font-size: 16px;
+     /*font: 16px Helvetica, Sans-Serif;*/
+
+     line-height: 24px;
+     background: url(../images/noise.jpg);
+   }
+   .clear {
+     clear: both;
+   }
+   #page-wrap {
+     width: 800px;
+     margin: 40px auto 60px;
+   }
+   #pic {
+     float: right;
+     margin: -30px 0 0 0;
+   }
+
+   #social {
+    position: relative;
+    float: right;
+  }
+
+  #social ul li{
+    display: inline;
+    text-align: center;
+    margin:0 5px;
+  }
+
+  h1 {
+   margin: 0 0 16px 0;
+   padding: 0 0 16px 0;
+   font-size: 25px;
+   font-weight: bold;
+   letter-spacing: 4px;
+   border-bottom: 1px solid #999;
+   width:700px;
+ }
+ h2 {
+   font-size: 17px;
+   margin: 0 0 6px 0;
+   position: relative;
+ }
+ h2 span {
+   position: absolute;
+   bottom: 0;
+   right: 0;
+   font-size: 16px;
+   color: #999;
+   font-weight: normal;
+ }
+ p {
+   margin: 0 0 16px 0;
+ }
+ a {
+   color: black;
+   text-decoration: none;
+   border-bottom: 1px dotted #999;
+ }
+ a:hover {
+   border-bottom-style: solid;
+   color: #666;
+ }
+ ul {
+   margin: 0 0 32px 17px;
+ }
+ #objective {
+   width: 550px;
+   float: left;
+ }
+ #objective p {
+   font-family: 'Computer Modern Sans', serif;
+   /*font-family: Georgia, Serif;*/
+   color: #666;
+   text-align: justify;
+ }
+
+
+ dt {
+   font-weight: bold;
+   font-size: 17px;
+   text-align: right;
+   padding:  0 26px 0 0;
+   width: 150px;
+   float: left;
+   height: 100px;
+   border-right: 1px solid #999;
+   letter-spacing: 2px;
+ }
+ dd {
+   text-align: justify;
+   width: 600px;
+   float: right;
+ }
+
+ dd.clear {
+   float: none;
+   margin: 0;
+   height: 15px;
+ }
+ #contact-info ul li {
+   display: inline-block;
+   float:left;
+ }
+
+ header { border-top: 1px solid #d5d5d5; font-size: .8em; display: inline;}
