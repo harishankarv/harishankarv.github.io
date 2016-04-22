@@ -34,8 +34,8 @@
 
    #social {
     top: 10px;
-    left: 20px;
     position: relative;
+    text-align: center;
   }
 
   #social ul li{
