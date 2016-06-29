@@ -11,8 +11,8 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
-baseurl: /sustain/
+url: http://harishankarv.github.io
+baseurl: /
 title: Harishankar Vishwanathan
 author: Harishankar Vishwanathan
 description: Personal blog and resume
@@ -23,8 +23,8 @@ twitter: _harishankarv
 linkedin: harishankarv
 stackoverflow: users/3418445/harishankarv   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
-disqus: harishankarv
-google_analytics: UA-69391421-1
+#disqus: harishankarv
+#google_analytics: UA-69391421-1
 
 
 # needed for travis-ci build
