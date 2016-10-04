@@ -1,16 +1,17 @@
 /* Main page with stikky-footer
 -------------------------------------------------- */
-   @font-face {
-     font-family: "Expressway";
-     src: url("../fonts/expressway_rg.ttf") format('truetype');
-   }
+ @font-face {
+     font-family: "Computer Modern Sans";
+     src: url("../fonts/cmunbmr.ttf") format('truetype');
+}
+
 
 html,
 body {
   height: 100%;
-  background-color: #fff;     
-  font-family: "Expressway";
-  src: url("../fonts/expressway_rg.ttf") format('truetype');
+  background-color: #fff;
+  font-family: "Computer Modern Sans";
+  src: url("../fonts/cmunbmr.ttf") format('truetype');
   /* The html and body elements cannot have any padding or margin. */
   border-top: 3px solid #27A822;
 }
