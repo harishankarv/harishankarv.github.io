@@ -15,16 +15,29 @@ I previously completed a Masters from the [University at Buffalo](https://www.bu
 
 ## News
 
-- **[May 2023]** Artifact for CAV '23 submission on verifying the range analysis in the eBPF verifier is available at [zenodo](https://zenodo.org/record/7931901) and [github](https://github.com/bpfverif/ebpf-range-analysis-verification-cav23).
-- **[May 2023]** Presented a talk on verifying the range analysis in the eBPF verifier of the Linux Kernel at [NJPLS '23](http://www.njpls.org/). 
-- **[Apr. 2023]** Paper on the verifying the range analysis in the eBPF verifier of the Linux kernel is accepted to [CAV '23](http://www.i-cav.org/2023/).
-- **[Apr. 2022]** [Artifact](https://zenodo.org/record/5703630) for CGO '22 submission on tristate numbers receives
-_Artifact Reusable_ and _Results Reproduced_ badges.
-- **[Dec 2021]** Paper on the abstract domain of tristate numbers (used in the Linux kernel's eBPF verifier) is accepted to [CGO '22](https://conf.researchr.org/home/cgo-2022). See the paper [here](https://arxiv.org/abs/2105.05398).
-- **[May 2021]** Linux kernel [patch](https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/commit/?id=05924717ac70) introducing a new algorithm for multiplication of tristate numbers is upstreamed.
-- **[Apr. 2019]** [Poster](https://dl.acm.org/doi/abs/10.1145/3307334.3328650) about garbage-collected
-runtimes for Trusted Applications written for ARM TrustZone is accepted to [MobiSys '19](https://www.sigmobile.org/mobisys/2019/).
-
+<ul>
+  <li>
+    <strong>May 2023: </strong>Artifact for CAV &#39;23 submission on verifying the range analysis in the eBPF verifier is available at <a href="https://zenodo.org/record/7931901">zenodo</a> and <a href="https://github.com/bpfverif/ebpf-range-analysis-verification-cav23">github</a>.
+  </li>
+  <li>
+    <strong>May 2023: </strong>Presented a talk on verifying the range analysis in the eBPF verifier of the Linux Kernel at <a href="http://www.njpls.org/">NJPLS &#39;23</a>.
+  </li>
+  <li>
+    <strong>Apr 2023: </strong>Paper on the verifying the range analysis in the eBPF verifier of the Linux kernel is accepted to <a href="http://www.i-cav.org/2023/">CAV &#39;23</a>.
+  </li>
+  <li>
+    <strong>Apr 2022: </strong><a href="https://zenodo.org/record/5703630">Artifact</a> for CGO &#39;22 submission on tristate numbers receives <em>Artifact Reusable</em> and <em>Results Reproduced</em> badges.
+  </li>
+  <li>
+    <strong>Dec 2021: </strong>Paper on the abstract domain of tristate numbers (used in the Linux kernel&#39;s eBPF verifier) is accepted to <a href="https://conf.researchr.org/home/cgo-2022">CGO &#39;22</a>. See the paper <a href="https://arxiv.org/abs/2105.05398">here</a>.
+  </li>
+  <li>
+    <strong>May 2021: </strong>Linux kernel <a href="https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/commit/?id=05924717ac70">patch</a> introducing a new algorithm for multiplication of tristate numbers is upstreamed.
+  </li>
+  <li>
+    <strong>Apr 2019: </strong><a href="https://dl.acm.org/doi/abs/10.1145/3307334.3328650">Poster</a> about garbage-collected runtimes for Trusted Applications written for ARM TrustZone is accepted to <a href="https://www.sigmobile.org/mobisys/2019/">MobiSys &#39;19</a>.
+  </li>
+</ul>
 
 {% include_relative _includes/publications.md %}
 

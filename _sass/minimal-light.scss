@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,500;1,600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Labrada&display=swap');
 
 body {
   background-color: #fff;
   padding:0px;
-  font: 16.0px/1.5 Crimson Pro, serif; 
+  font: 16.0px/1.5 Labrada, serif; 
   color:#595959;
   font-weight:400;
   margin:0
@@ -228,7 +229,7 @@ papertitle {
 
       .image.avatar img {
         border-radius: 100%;
-        width: 45%;
+        width: 70%;
         padding: 20px;
         // border: 1px solid #ddd;
         // padding: 3px;
@@ -320,8 +321,8 @@ blockquote {
 }
 
 code, pre {
-  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color:#333;
+  font-family:Ubuntu Mono, Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  color:#ffffff;
 }
 
 pre {
@@ -607,3 +608,18 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+// For future table use
+.some-table {
+  text-align: left;
+  vertical-align: top;
+  border: none;
+}
+
+.some-table table tbody tr td:first-child {
+  width: 75px;
+  vertical-align: top;
+  border: none;
+}
+
+
