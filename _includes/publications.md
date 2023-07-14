@@ -7,6 +7,28 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/cav23_paper.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CAV</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="assets/files/agni-cav23.pdf">Verifying the Verifier: eBPF Range Analysis Verification</a></div>
+    <div class="author"><strong>Harishankar Vishwanathan</strong>, Matan Shachnai, Srinivas Narayana, Santosh Nagarakatte</div>
+    <div class="periodical"><em>International Conference on Computer Aided Verification <strong>(CAV)</strong>, 2023.</em></div>
+    <div class="links">
+      <a href="assets/files/agni-cav23.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/bpfverif/ebpf-range-analysis-verification-cav23" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <!-- <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <strong><i style="color:#e74d3c"> To Appear </i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/cgo22_paper.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CGO</abbr>
   </div>
@@ -14,7 +36,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2105.05398.pdf">Sound, precise, and fast abstract interpretation with tristate numbers</a></div>
     <div class="author"><strong>Harishankar Vishwanathan</strong>, Matan Shachnai, Srinivas Narayana, Santosh Nagarakatte</div>
-    <div class="periodical"><em>IEEE/ACM International Symposium on Code Generation and Optimization <strong>(CGO)</strong>, 2022.</em></div>
+    <div class="periodical"><em>International Symposium on Code Generation and Optimization <strong>(CGO)</strong>, 2022.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2105.05398.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/bpfverif/tnums-cgo22" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>

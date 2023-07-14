@@ -23,7 +23,7 @@ I previously completed a Masters from the [University at Buffalo](https://www.bu
     <strong>May 2023: </strong>Presented a talk on verifying the range analysis in the eBPF verifier of the Linux Kernel at <a href="http://www.njpls.org/">NJPLS &#39;23</a>.
   </li>
   <li>
-    <strong>Apr 2023: </strong>Paper on the verifying the range analysis in the eBPF verifier of the Linux kernel is accepted to <a href="http://www.i-cav.org/2023/">CAV &#39;23</a>.
+    <strong>Apr 2023: </strong>Paper on the verifying the range analysis in the eBPF verifier of the Linux kernel is accepted to <a href="http://www.i-cav.org/2023/">CAV &#39;23</a>. See the paper <a href="assets/files/agni-cav23.pdf">here</a>.
   </li>
   <li>
     <strong>Apr 2022: </strong><a href="https://zenodo.org/record/5703630">Artifact</a> for CGO &#39;22 submission on tristate numbers receives <em>Artifact Reusable</em> and <em>Results Reproduced</em> badges.
