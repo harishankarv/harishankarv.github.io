@@ -19,7 +19,6 @@
       <a href="assets/files/agni-cav23.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/bpfverif/ebpf-range-analysis-verification-cav23" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <!-- <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
-      <strong><i style="color:#e74d3c"> To Appear </i></strong>
     </div>
   </div>
 </div>
