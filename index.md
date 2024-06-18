@@ -17,7 +17,7 @@ I previously completed a Masters from the [University at Buffalo](https://www.bu
 
 <ul>
   <li>
-    <strong>Apr 2023: </strong> Submitted a <a href="https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/commit/?id=1f586614f3ffa80fdf2116b2a1bebcdb5969cef8">patch</a> to the Linux kernel fixing a latent unsoundness in the eBPF verifier. The patch has been upstreamed.
+    <strong>Apr 2024: </strong> Submitted a <a href="https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/commit/?id=1f586614f3ffa80fdf2116b2a1bebcdb5969cef8">patch</a> to the Linux kernel fixing a latent unsoundness in the eBPF verifier. The patch has been upstreamed.
   </li>
   <li>
     <strong>Nov 2023: </strong>Presented a talk and demoed our tool <a href="https://github.com/bpfverif/agni">Agni</a> to the Linux community at <a href="https://lpc.events/event/17/">LPC '23</a>. See the slides <a href="assets/files/lpc23_talk.pdf">here</a>.
