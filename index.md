@@ -17,6 +17,9 @@ I previously completed a Masters from the [University at Buffalo](https://www.bu
 
 <ul>
   <li>
+    <strong>Jul 2024: </strong><a href="assets/files/agni_sas24.pdf">Paper</a> on scaling the verification of abstract operators in the Linux eBPF verifier using our tool <a href="https://github.com/bpfverif/agni">Agni</a> and fixing latent unsound abstract operators is accepted to <a href="https://2024.splashcon.org/home/sas-2024">SAS '24</a>.
+  </li>
+  <li>
     <strong>Apr 2024: </strong> Submitted a <a href="https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/commit/?id=1f586614f3ffa80fdf2116b2a1bebcdb5969cef8">patch</a> to the Linux kernel fixing a latent unsoundness in the eBPF verifier. The patch has been upstreamed.
   </li>
   <li>

@@ -7,6 +7,28 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/sas24_paper.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">SAS</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="assets/files/agni-cav23.pdf">Fixing Latent Unsound Abstract Operators in the
+eBPF Verifer of the Linux Kernel</a></div>
+    <div class="author"><strong>Harishankar Vishwanathan</strong>, Matan Shachnai, Srinivas Narayana, Santosh Nagarakatte</div>
+    <div class="periodical"><em>Static Analysis Symposium <strong>(SAS)</strong>, 2024.</em></div>
+    <div class="links">
+      <a href="assets/files/agni_sas24.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/bpfverif/agni" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <!-- <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/cav23_paper.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CAV</abbr>
   </div>
