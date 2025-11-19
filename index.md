@@ -17,25 +17,34 @@ I previously completed a Masters from the [University at Buffalo](https://www.bu
 
 <ul>
   <li>
+    <strong>July 2025: </strong><a href="assets/files/agni_sas25.pdf">Paper</a> on comparing the precision of abstract operators in the eBPF verifier through differential synthesis using <a href="https://github.com/bpfverif/agni">Agni</a> is accepted to <a href="https://2025.splashcon.org/home/sas-2025">SAS '25</a>.
+  </li>
+  <li>
+    <strong>June 2025: </strong> <a href="https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/commit/?id=7a998a731627">Patch</a> improving the precision of the abstract operators for addition and subtraction in the eBPF verifier, discovered by our automated synthesis tool <a href="https://github.com/bpfverif/vayu">Vayu</a>, is upstreamed.
+  </li>
+  <li>
+    <strong>June 2025: </strong><a href="assets/files/vayu_ebpf25.pdf">Paper</a> on automatically synthesizing abstract operators for the eBPF verifier is accepted to SIGCOMM eBPF Workshop (<a href="https://conferences.sigcomm.org/sigcomm/2025/workshop/ebpf/">eBPF'25</a>). Try out our tool <a href="https://github.com/bpfverif/vayu">Vayu</a>, which automatically synthesizes abstract operators. 
+  </li>
+  <li>
+    <strong>Dec 2024: </strong> <a href="https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/commit/?id=9aa0ebde0014">Patch</a> improving the precision of the abstract operator for multiplication in the eBPF verifier is upstreamed.
+  </li>
+  <li>
     <strong>Jul 2024: </strong><a href="assets/files/agni_sas24.pdf">Paper</a> on scaling the verification of abstract operators in the Linux eBPF verifier using our tool <a href="https://github.com/bpfverif/agni">Agni</a> and fixing latent unsound abstract operators is accepted to <a href="https://2024.splashcon.org/home/sas-2024">SAS '24</a>.
   </li>
   <li>
-    <strong>Apr 2024: </strong> Submitted a <a href="https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/commit/?id=1f586614f3ffa80fdf2116b2a1bebcdb5969cef8">patch</a> to the Linux kernel fixing a latent unsoundness in the eBPF verifier. The patch has been upstreamed.
+    <strong>Apr 2024: </strong><a href="https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/commit/?id=1f586614f3ffa80fdf2116b2a1bebcdb5969cef8">Patch</a> to the Linux kernel fixing a latent unsoundness in the eBPF verifier is upstreamed.
   </li>
   <li>
-    <strong>Nov 2023: </strong>Presented a talk and demoed our tool <a href="https://github.com/bpfverif/agni">Agni</a> to the Linux community at <a href="https://lpc.events/event/17/">LPC '23</a>. See the slides <a href="assets/files/lpc23_talk.pdf">here</a>.
+    <strong>Nov 2023: </strong>Presented a talk and demoed our tool <a href="https://github.com/bpfverif/agni">Agni</a> at the Linux Plumbers Conference (<a href="https://lpc.events/event/17/">LPC '23</a>). See the slides <a href="assets/files/lpc23_talk.pdf">here</a>.
   </li>
   <li>
-    <strong>Oct 2023: </strong> Presented my Ph.D. qualifying talk on <em>Developing Verified Static Analyzers for Kernel Extensions</em>. See the <a href="assets/files/qe_talk.pdf">slides</a> and a <a href="assets/files/qe_report.pdf">report</a> on work related to my research. Officially a Ph.D. candidate.
-  </li>
-  <li>
-    <strong>May 2023: </strong>Artifact for CAV '23 submission on verifying the range analysis in the eBPF verifier is available at <a href="https://zenodo.org/record/7931901">zenodo</a> and <a href="https://github.com/bpfverif/ebpf-range-analysis-verification-cav23">github</a>.
+    <strong>Oct 2023: </strong> Presented my Ph.D. qualifying talk entitled: <em>Developing Verified Static Analyzers for Kernel Extensions</em>. See the <a href="assets/files/qe_report.pdf">report</a> on work related to my research. <em>Officially a Ph.D. candidate!</em>
   </li>
   <li>
     <strong>May 2023: </strong>Presented a talk on verifying the range analysis in the eBPF verifier of the Linux Kernel at <a href="http://www.njpls.org/">NJPLS '23</a>.
   </li>
   <li>
-    <strong>Apr 2023: </strong>Paper on the verifying the range analysis in the eBPF verifier of the Linux kernel is accepted to <a href="http://www.i-cav.org/2023/">CAV '23</a>. See the paper <a href="assets/files/agni-cav23.pdf">here</a>.
+    <strong>Apr 2023: </strong><a href="assets/files/agni_cav23.pdf">Paper</a> on the verifying the range analysis in the eBPF verifier of the Linux kernel is accepted to <a href="http://www.i-cav.org/2023/">CAV '23</a>. Our tool <a href="https://github.com/bpfverif/agni">Agni</a>, is publicly available on github. Artifact for CAV '23 submission is available at <a href="https://zenodo.org/record/7931901">zenodo</a>.
   </li>
   <li>
     <strong>Apr 2022: </strong><a href="https://zenodo.org/record/5703630">Artifact</a> for CGO '22 submission on tristate numbers receives <em>Artifact Reusable</em> and <em>Results Reproduced</em> badges.
