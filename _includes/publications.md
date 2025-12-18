@@ -13,7 +13,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="assets/files/vayu_ebpf25.pdf">Automatic Synthesis of Abstract Operators for eBPF</a></div>
     <div class="author"><strong>Harishankar Vishwanathan</strong>, Matan Shachnai, Srinivas Narayana, Santosh Nagarakatte</div>
-    <div class="periodical"><em>Workshop on eBPF and Kernel Extensions<strong>(eBPF)</strong>, 2024.</em></div>
+    <div class="periodical"><em>Workshop on eBPF and Kernel Extensions<strong>(eBPF)</strong>, 2025.</em></div>
     <div class="links">
       <a href="assets/files/vayu_ebpf25.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/bpfverif/vayu" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
