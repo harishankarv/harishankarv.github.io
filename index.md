@@ -8,14 +8,21 @@ I'm interested in building systems that are secure, verifiable, and efficient. M
 
 I previously completed a Masters from the [University at Buffalo](https://www.buffalo.edu/). I worked with [Prof. Steven Ko](https://steveyko.github.io/), [Prof. Karthik Dantu](https://cse.buffalo.edu/faculty/kdantu/), and [Prof. Lukasz Ziarek](https://cse.buffalo.edu/~lziarek/) on developing richer runtimes for trusted applications written for the [ARM TrustZone](https://developer.arm.com/ip-products/security-ip/trustzone) trusted execution enviroment. I have also worked with [Prof. Anton Burtsev](https://www.ics.uci.edu/~aburtsev/) on designing fast hash tables that utilize the high bandwidth provided by modern memory (DRAM) subsystems. 
 
-<!-- ## Research Interests
-
-- **Program Verification:** image recognition, image generation, video captioning
-- **Operating Systems:** meta-learning, incremental learning, transfer learning -->
-
 ## News
 
 <ul>
+  <li>
+    <strong>April 2026: </strong> <a href="https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/commit/?id=b254c6d816">Patch</a> improving the verifier’s dead branch detection and path pruning logic is upstreamed.
+  </li>
+  <li>
+    <strong>March 2026: </strong>Invited to serve as a TPC member for the eBPF and Kernel Extensions Workshop <a href="https://ebpf.github.io/2026/cfp.html">(eBPF '26)</a>.
+  </li>
+  <li>
+    <strong>Feb 2026: </strong> <a href="https://git.kernel.org/pub/scm/linux/kernel/git/bpf/bpf-next.git/commit/?id=76e954155b">Patch</a> introducing algorithm for stepping through members of a tristate number in the eBPF verifier is upstreamed.
+  </li>
+  <li>
+    <strong>Feb 2026: </strong>Invited to present at Linux Storage, Filesystem, Memory Management & BPF Summit (<a href="https://events.linuxfoundation.org/lsfmmbpf/">LSF/MM/BPF '26</a>).
+  </li>
   <li>
     <strong>July 2025: </strong><a href="assets/files/agni_sas25.pdf">Paper</a> on comparing the precision of abstract operators in the eBPF verifier through differential synthesis using <a href="https://github.com/bpfverif/agni">Agni</a> is accepted to <a href="https://2025.splashcon.org/home/sas-2025">SAS '25</a>.
   </li>
