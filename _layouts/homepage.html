@@ -23,6 +23,14 @@
 
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/publications.css">
+    <style>
+      email {
+        font-size: 13px !important;
+        font-family: "Ubuntu Mono", monospace !important;
+        display: inline-block !important;
+        white-space: nowrap !important;
+      }
+    </style>
 
   </head>
   <body>
@@ -41,6 +49,14 @@
         {% endif %}
         {% if site.affiliation %}
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        <br>
+        {% endif %}
+        {% if site.email_preferred and site.email_academic %}
+        <email style="display: block; text-align: left; padding-left: 10px; line-height: 1.4; margin-top: 15px;">
+          email: harishankar.vishwanathan (at)<br>
+          <span style="display: inline-block; margin-left: 7ch; color: #555;">| gmail.com (preferred)</span><br>
+          <span style="display: inline-block; margin-left: 7ch; color: #555;">| rutgers.edu (academic)</span>
+        </email>
         <br>
         {% endif %}
         {% if site.email %}
